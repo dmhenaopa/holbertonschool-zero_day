@@ -1,1 +1,1 @@
-Some files related to Git usage
+Some files related to Git usage - UPDATE
