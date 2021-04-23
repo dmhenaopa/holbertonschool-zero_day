@@ -2,10 +2,10 @@
 This folder contains subfolders with some test files related to basic Git and GitHub usage. The folders with test files:
 
  - bash: Some bash scripts that allows to print in standard output using `echo` command: [holberton](https://github.com/dmhenaopa/holbertonschool-zero_day/blob/master/0x03-git/bash/holberton) and [school](https://github.com/dmhenaopa/holbertonschool-zero_day/blob/master/0x03-git/bash/school). Also an empty file: [98](https://github.com/dmhenaopa/holbertonschool-zero_day/blob/master/0x03-git/bash/98).
- - c: An C empty file: c_is_fun.c.
- - js:
+ - c: A C empty file: [c_is_fun.c](https://github.com/dmhenaopa/holbertonschool-zero_day/blob/master/0x03-git/c/c_is_fun.c).
+ - js: A Java  empty files: index.js and main.js
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzI2OTQyMjMsMTI2NTU4OTI3OCwxNj
+eyJoaXN0b3J5IjpbLTE1Nzg1OTgzOTYsMTI2NTU4OTI3OCwxNj
 Y2NTQzMTIwXX0=
 -->
