@@ -1,4 +1,4 @@
-This folder contains some files with  related to basic Git and GitHub usage. 
+This folder contains subfolders with some test files related to basic Git and GitHub usage. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0OTEyMjE3MywxNjY2NTQzMTIwXX0=
+eyJoaXN0b3J5IjpbMTMxNjYyMDY2NCwxNjY2NTQzMTIwXX0=
 -->
