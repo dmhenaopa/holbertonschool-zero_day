@@ -6,7 +6,6 @@ In this repository we have some commands related to the use of text editors such
  - [0x02-vi](https://github.com/dmhenaopa/holbertonschool-zero_day/tree/master/0x02-vi)
  - [0x03-git](https://github.com/dmhenaopa/holbertonschool-zero_day/tree/master/0x03-git)
 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NjE3NTczNiwxNDg1NjAyMDg3XX0=
+eyJoaXN0b3J5IjpbOTQ5NDI1ODgyLDE0ODU2MDIwODddfQ==
 -->
