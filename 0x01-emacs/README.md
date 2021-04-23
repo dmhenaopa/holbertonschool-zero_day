@@ -1,6 +1,6 @@
 ## :pencil2: Emacs: Text editor
 
-Some useful commands for Emacs usage
+This folder contains some basic and useful commands for Emacs usage. This directory
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgwMDY2NjY1LDUzMTUzMjc1NV19
+eyJoaXN0b3J5IjpbMTA0MTgzMjIzMCw1MzE1MzI3NTVdfQ==
 -->
