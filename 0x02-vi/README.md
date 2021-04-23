@@ -9,10 +9,9 @@ This folder contains some basic and useful commands for Vi editor usage. This di
  - [4-exiting](https://github.com/dmhenaopa/holbertonschool-zero_day/blob/master/0x02-vi/4-exiting): The command to quit Vi evem though latest changes have not been saved for this Vi call.
  - [5-beginning_line](https://github.com/dmhenaopa/holbertonschool-zero_day/blob/master/0x02-vi/5-beginning_line): The command to move the cursor to the start of the current line.
  - [6-end_line](https://github.com/dmhenaopa/holbertonschool-zero_day/blob/master/0x02-vi/6-end_line): The command to move the cursor to the end of the line.
- - 100-move_to_line: The command to move the cursor to line 32.
- - 101-delete_line: The command to delete the current and previous line at the same time.
-
+ - [100-move_to_line](https://github.com/dmhenaopa/holbertonschool-zero_day/blob/master/0x02-vi/100-move_to_line): The command to move the cursor to line 32.
+ - [101-delete_line](https://github.com/dmhenaopa/holbertonschool-zero_day/blob/master/0x02-vi/101-delete_line): The command to delete the current and previous line at the same time.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NDc2MTI0OSw5MjM0NTA1MjEsMTA0Mz
+eyJoaXN0b3J5IjpbLTg4Mzg2NDgzMiw5MjM0NTA1MjEsMTA0Mz
 E2MjU2Nl19
 -->
